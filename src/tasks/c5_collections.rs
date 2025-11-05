@@ -39,7 +39,7 @@ pub fn reverse_words(sentence: &str) -> String {
 // - Trims extra spaces at the beginning and end.
 // - Converts multiple spaces between words into a single space.
 // - Makes the first letter of every word uppercase, and every other letter lowercase, for example
-//   "пРеВеД МеДвЕд -> Превед медвед"
+//   "пРеВеД МеДвЕд -> Превед Медвед"
 
 pub fn normalize_and_capitalize(sentence: &str) -> String {
     !unimplemented!()

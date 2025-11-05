@@ -1,6 +1,5 @@
 pub mod c10_concurrency;
-pub mod c11_async;
-pub mod c12_unsafe_advanced_traits_macros;
+pub mod c12_object_oriented_programming;
 pub mod c1_common_concepts;
 pub mod c3_ownership_and_memory;
 pub mod c4_structs_methods_enums_pattern_matching;
